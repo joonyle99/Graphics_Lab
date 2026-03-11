@@ -13,3 +13,7 @@ OpenGL 기반 렌더링 파이프라인 학습 및 그래픽스 기초 실습
 1. [openFrameworks v0.10.0](https://openframeworks.cc/download/) 다운로드
 2. `apps/myApps/` 경로에 이 repo를 clone
 3. Visual Studio에서 `.sln` 열어서 빌드
+
+## References
+
+- [Practical Shader Development](https://github.com/Apress/practical-shader-dev) - 셰이더 학습 에셋 출처
