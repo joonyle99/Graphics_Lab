@@ -3,6 +3,11 @@
 #include "ofMain.h"
 
 class ofApp : public ofBaseApp{
+	public:
+		ofMesh charMesh;
+		ofShader charShader;
+		ofImage alienImg;
+		ofImage backgournd;
 
 	public:
 		void setup();
